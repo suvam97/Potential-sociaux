@@ -97,8 +97,7 @@ class User
                 else return null;
             }
         }
-        
-        catch(PDOException $e)
+            catch(PDOException $e)
         {
             header('Location: index.php');
             exit;
