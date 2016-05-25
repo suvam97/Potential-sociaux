@@ -153,7 +153,7 @@ if(isset($_POST['btn-submit-search']))
         echo '
         </ul>
 
-         </div>';
+         </div>' ;
     }
     ?>
 
