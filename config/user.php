@@ -91,6 +91,7 @@ class User
                     $data['email'] = $result['email'];
                     $data['bDate'] = $result['birthDate'];
                     $data['user_id'] = $result['id'];
+                    
                     return $data;
                 }
 
