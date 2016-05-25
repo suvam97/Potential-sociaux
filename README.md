@@ -1,2 +1,2 @@
 # Potential-sociaux
-Social Networking Site
+Social Networking Site ... Connecting People !
